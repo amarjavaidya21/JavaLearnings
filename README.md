@@ -1,0 +1,2 @@
+# JavaLearnings
+Accumulating Java resources
